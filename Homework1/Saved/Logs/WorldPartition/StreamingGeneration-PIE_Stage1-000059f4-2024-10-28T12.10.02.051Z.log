@@ -1,0 +1,48 @@
+[+] Containers:
+ |- [+] Container: /Game/Levels/Stage1
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:7CF7EE054A8F787A987E0CBE547F4104 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:7CF7EE054A8F787A987E0CBE547F4104 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Levels/Stage1
+----------------------------------------------------------------------------------------------------------------
+Stage1 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Stage1 Persistent Level
+ |- Always loaded Actor Count: 6 
+ |- Actor Path: /Game/Levels/Stage1.Stage1:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Levels/Stage1
+ |- Actor Path: /Game/Levels/Stage1.Stage1:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Levels/Stage1
+ |- Actor Path: /Game/Levels/Stage1.Stage1:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Levels/Stage1
+ |- Actor Path: /Game/Levels/Stage1.Stage1:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Levels/Stage1
+ |- Actor Path: /Game/Levels/Stage1.Stage1:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Levels/Stage1/B/JO/43NB9WGPLB5I3YXMGMWX7U
+ |- Actor Path: /Game/Levels/Stage1.Stage1:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/Levels/Stage1
+
+----------------------------------------------------------------------------------------------------------------
+Stage1 - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
