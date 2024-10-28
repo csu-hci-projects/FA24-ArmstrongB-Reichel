@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Github/FA24-ArmstrongB-ReichelA/Homework1/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/Github/FA24-ArmstrongB-ReichelA/Homework1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/barmstr7/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"C:/Users/barmstr7/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/barmstr7/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/MyBlueprints/HealthPickup.uasset",
+				"C:/Users/barmstr7/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/QL/XC10BVKNCTIS49NZUS8XC2.uasset"
 			]
 		}
 	]
