@@ -5,6 +5,29 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Github/FA24-ArmstrongB-ReichelA/Homework1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/barmstr7/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"C:/Users/barmstr7/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/barmstr7/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/MyBlueprints/HealthPickup.uasset",
+				"C:/Users/barmstr7/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/QL/XC10BVKNCTIS49NZUS8XC2.uasset",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/Levels/MenuLevel.umap",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/Widgets/M.uasset",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/Levels/Level1.umap",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/Levels/Level2.umap",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/MyBlueprints/BP_Hazzard.uasset",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/MyBlueprints/BP_Target.uasset",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/StarterContent/Architecture/Wall_400x400.uasset",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/MyMaterials/Hit.uasset",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/MyBlueprints/BP_Target2.uasset",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/UI/UserInterface.uasset",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/MyBlueprints/AmmoPickup.uasset",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/LC/2K5VUKP99M07D0I2HE5SJN.uasset",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/Widgets/Winmenu.uasset",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/MyBlueprints/HealthPickup.uasset",
+				"D:/ActuallyThisOne/FA24-ArmstrongB-ReichelA/Homework1/Content/MyBlueprints/NewBlueprint.uasset",
 				"C:/Users/rashleyr/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/Levels/Level1.umap",
 				"C:/Users/rashleyr/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/MyBlueprints/BP_Target.uasset",
 				"C:/Users/rashleyr/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/MyBlueprints/HealthPickup.uasset",
@@ -13,12 +36,7 @@
 				"C:/Users/rashleyr/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/MyBlueprints/BP_Hazzard.uasset",
 				"C:/Users/rashleyr/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/UI/UserInterface.uasset",
 				"C:/Users/rashleyr/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/rashleyr/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
-				"D:/Github/FA24-ArmstrongB-ReichelA/Homework1/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/barmstr7/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
-				"C:/Users/barmstr7/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/barmstr7/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/MyBlueprints/HealthPickup.uasset",
-				"C:/Users/barmstr7/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/QL/XC10BVKNCTIS49NZUS8XC2.uasset"
+				"C:/Users/rashleyr/Documents/GitHub/FA24-ArmstrongB-ReichelA/Homework1/Content/FirstPerson/Blueprints/BP_Rifle.uasset"
 			]
 		}
 	]
